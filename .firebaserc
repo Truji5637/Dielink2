@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dielink-co"
+  },
+  "targets": {
+    "dielink-co": {
+      "hosting": {
+        "dielink-co": [
+          "dielink-co"
+        ]
+      }
+    }
+  }
+}
